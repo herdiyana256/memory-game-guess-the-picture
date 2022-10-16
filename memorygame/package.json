@@ -1,0 +1,18 @@
+{
+  "name": "usm_app_games",
+  "version": "1.0.0",
+  "description": "USM - Games Memory JS",
+  "main": "script.js",
+  "scripts": {
+    "test": "OK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github/herdiyana256"
+  },
+  "keywords": [
+    "LS"
+  ],
+  "author": "Herdiyan Adam Putra",
+  "license": "ISC"
+}
